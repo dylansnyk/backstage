@@ -81,7 +81,7 @@
     "@opentelemetry/sdk-metrics": "^1.13.0",
     "azure-devops-node-api": "^11.0.1",
     "better-sqlite3": "^8.0.0",
-    "dockerode": "^3.3.1",
+    "dockerode": "^4.0.2",
     "example-app": "link:../app",
     "express": "^4.17.1",
     "express-prom-bundle": "^6.3.6",
