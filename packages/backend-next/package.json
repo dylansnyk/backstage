@@ -26,14 +26,14 @@
   },
   "dependencies": {
     "@backstage/backend-defaults": "workspace:^",
-    "@backstage/plugin-app-backend": "workspace:^",
+    "@backstage/plugin-app-backend": "0.1.1",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/plugin-catalog-backend": "workspace:^",
-    "@backstage/plugin-catalog-backend-module-unprocessed": "workspace:^",
+    "@backstage/plugin-catalog-backend-module-unprocessed": "0.1.0",
     "@backstage/plugin-entity-feedback-backend": "workspace:^",
     "@backstage/plugin-kubernetes-backend": "workspace:^",
     "@backstage/plugin-permission-backend": "workspace:^",
-    "@backstage/plugin-permission-common": "workspace:^",
+    "@backstage/plugin-permission-common": "0.1.0",
     "@backstage/plugin-permission-node": "workspace:^",
     "@backstage/plugin-scaffolder-backend": "workspace:^",
     "@backstage/plugin-search-backend": "workspace:^",
@@ -41,8 +41,8 @@
     "@backstage/plugin-search-backend-module-explore": "workspace:^",
     "@backstage/plugin-search-backend-module-techdocs": "workspace:^",
     "@backstage/plugin-search-backend-node": "workspace:^",
-    "@backstage/plugin-techdocs-backend": "workspace:^",
-    "@backstage/plugin-todo-backend": "workspace:^"
+    "@backstage/plugin-techdocs-backend": "0.1.1",
+    "@backstage/plugin-todo-backend": "0.1.0"
   },
   "devDependencies": {
     "@backstage/cli": "workspace:^"
