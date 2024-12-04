@@ -61,7 +61,7 @@
     "@backstage/plugin-permission-common": "workspace:^",
     "@backstage/plugin-permission-node": "workspace:^",
     "@backstage/plugin-scaffolder-common": "workspace:^",
-    "@backstage/plugin-scaffolder-node": "workspace:^",
+    "@backstage/plugin-scaffolder-node": "0.4.12",
     "@backstage/types": "workspace:^",
     "@gitbeaker/core": "^35.6.0",
     "@gitbeaker/node": "^35.1.0",
