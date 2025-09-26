@@ -42,10 +42,10 @@
     "start": "backstage-cli package start"
   },
   "dependencies": {
-    "@backstage/backend-app-api": "workspace:^",
+    "@backstage/backend-app-api": "0.5.0",
     "@backstage/backend-common": "workspace:^",
-    "@backstage/backend-plugin-api": "workspace:^",
-    "@backstage/config": "workspace:^",
+    "@backstage/backend-plugin-api": "0.6.19",
+    "@backstage/config": "0.1.1",
     "@backstage/plugin-auth-node": "workspace:^",
     "@backstage/types": "workspace:^",
     "better-sqlite3": "^8.0.0",
@@ -54,7 +54,7 @@
     "msw": "^1.0.0",
     "mysql2": "^2.2.5",
     "pg": "^8.3.0",
-    "testcontainers": "^8.1.2",
+    "testcontainers": "^10.22.0",
     "uuid": "^8.0.0"
   },
   "devDependencies": {
